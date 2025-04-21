@@ -31,21 +31,21 @@ To run this project locally, you need to have [Node.js](https://nodejs.org/) and
 
 The app will be available at http://localhost:3000
 
-Usage
+## Usage
 
 Once the application is up and running, you can:
-	1. Upload an image using the file upload input.
-	2. Choose a pre-defined color palette or extract a custom palette from the image.
-	3. Adjust the intensity of the filter to your liking.
-	4. Fine-tune contrast, noise, and other image properties using the available sliders.
-	5. Preview the filtered image in real-time and compare it with the original image using a side-by-side view.
-	6. Download the final image once you’re satisfied with the result.
+- Upload an image using the file upload input.
+- Choose a pre-defined color palette or extract a custom palette from the image.
+- Adjust the intensity of the filter to your liking.
+- Fine-tune contrast, noise, and other image properties using the available sliders.
+- Preview the filtered image in real-time and compare it with the original image using a side-by-side view.
+- Download the final image once you’re satisfied with the result.
 
-Color Models
+## Color Models
 
 This application supports three color models:
-• RGB: The most common color model, based on the combination of red, green, and blue channels.
-• LAB: A perceptual color model that is device-independent, often used for image processing as it more closely resembles human vision.
-• HSV: A color model based on hue, saturation, and value. This model allows easy manipulation of colors, particularly saturation and brightness.
+- RGB: The most common color model, based on the combination of red, green, and blue channels.
+- LAB: A perceptual color model that is device-independent, often used for image processing as it more closely resembles human vision.
+- HSV: A color model based on hue, saturation, and value. This model allows easy manipulation of colors, particularly saturation and brightness.
 
 The user can select which model to apply while adjusting the colors, making it versatile for different types of color corrections.
