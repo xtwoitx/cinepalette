@@ -28,6 +28,7 @@ To run this project locally, you need to have [Node.js](https://nodejs.org/) and
    **npm install**
 5. Start the development server:
    **npm start**
+
 The app will be available at http://localhost:3000
 
 Usage
