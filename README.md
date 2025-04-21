@@ -21,7 +21,7 @@ To run this project locally, you need to have [Node.js](https://nodejs.org/) and
 
 1. Clone the repository:
    ```bash
-   **git clone https://github.com/your-username/cinepalette.git**
+   git clone https://github.com/your-username/cinepalette.git
 2.	Navigate to the project directory:
    **cd cinepalette**
 4.	Install the dependencies:
